@@ -1,0 +1,6 @@
+@Maxim_Cazacu_Lab5_HostAddress = http://localhost:5098
+
+GET {{Maxim_Cazacu_Lab5_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
